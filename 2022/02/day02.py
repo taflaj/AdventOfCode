@@ -1,4 +1,5 @@
-# RockPaperScissors.py
+# day02.py
+# Rock paper scissors
 
 import sys
 
